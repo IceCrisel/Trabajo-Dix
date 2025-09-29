@@ -55,7 +55,7 @@ Zonas que regresan con cambios:
 
 
 ## [Página del juego en español](https://www.monsterhunter.com/rise/es/)
-![Foto Perfil](https://www.monsterhunter.com/rise/assets/images/mv-am.jpg)
+
 
 ## Conclusión:
 
